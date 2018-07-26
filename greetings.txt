@@ -1,1 +1,2 @@
 Hello, people. 
+This is a practice so Github would be easier for me in the future
